@@ -3,7 +3,7 @@
 ## I'm a Personal Trainer Turns Full Stack Engineer!
 
 - 🌱 I’m currently learning Jest and TypeScript! 🤣
-- 🥅 Current Project (MERN): https://dashboard.heroku.com/apps/the-golden-years
+- 🥅 Current Project (MERN): https://the-golden-years.herokuapp.com/
 - ⚡ Fun fact: Ultra Endurance Athlete! 100km < Run && 2019 Pull in under 12hrs
 
 ### Connect with me:
