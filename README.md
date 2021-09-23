@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning Jest and TypeScript! 🤣
 - 🥅 Current Project (MERN): https://the-golden-years.herokuapp.com/
-- ⚡ Fun fact: Ultra Endurance Athlete! 100km < Run && 2019 Pull in under 12hrs
+- 📺 Preview: https://www.linkedin.com/feed/update/urn:li:activity:6834434994765754368/
+- ⚡  Fun fact: Ultra Endurance Athlete! 100km < Run && 2019 Pull in under 12hrs
 
 ### Connect with me:
 
