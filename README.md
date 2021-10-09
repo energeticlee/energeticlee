@@ -2,7 +2,7 @@
 
 ## I'm a Personal Trainer Turns Full Stack Engineer!
 
-- 🌱 I’m currently learning Jest and Docker! 🤣
+- 🌱 I’m currently learning Jest, Docker, Go!
 - 😎 Most Recent Project (9 Oct 2021): https://github.com/energeticlee/img-text-scanner
 - 🥅 Project Feature (MERN): https://the-golden-years.herokuapp.com/
 - 📺 Preview: https://www.linkedin.com/feed/update/urn:li:activity:6834434994765754368/
