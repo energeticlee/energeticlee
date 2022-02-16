@@ -2,8 +2,8 @@
 
 ## I'm a Personal Trainer Turns Full Stack Engineer!
 
-- 🌱 I’m currently learning Tornado, Pandas, SQLAlchemy!
-- 😎 Most Recent Project: https://github.com/energeticlee/img-text-scanner
+- 🌱 I’m currently learning RUST!
+- 😎 Most Recent Project: https://github.com/energeticlee/bumble-bot
 - 🥅 Project Feature (MERN): https://the-golden-years.herokuapp.com/
 - 📺 Preview: https://www.linkedin.com/feed/update/urn:li:activity:6834434994765754368/
 - ⚡  Fun fact: Ultra Endurance Athlete! 100km < Run && 2019 Pull in under 12hrs
