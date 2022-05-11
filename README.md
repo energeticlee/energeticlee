@@ -1,10 +1,10 @@
 ### Hi there, I'm Justin! - aka Energetic_Lee 👋
 
-## I'm a Personal Trainer Turns Full Stack Engineer!
+## I'm a Personal Trainer Turns Blockchain Developer!
 
-- 🌱 I’m currently learning RUST!
-- 😎 Most Recent Project: https://github.com/energeticlee/bumble-bot
-- 🥅 Project Feature (MERN): https://the-golden-years.herokuapp.com/
+- 🌱 Solana / Rust!
+- 😎 Most Recent Article: https://medium.com/openhaus/solana-staking-program-breakdown-43f28270b94f
+- 🥅 First Full Stakc Project (MERN): https://the-golden-years.herokuapp.com/
 - 📺 Preview: https://www.linkedin.com/feed/update/urn:li:activity:6834434994765754368/
 - ⚡  Fun fact: Ultra Endurance Athlete! 100km < Run && 2019 Pull in under 12hrs
 
