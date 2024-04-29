@@ -1,11 +1,11 @@
 ### Hi there, I'm Justin! 👋
 
-## Solana Developer, Co-founder Metacamp!
+## Solana Developer!
 
 - 🥅 Built [Singapore's First NFT-Gated door lock](https://x.com/jonasXchen/status/1593296498812653568?s=20)!
 - 📺 First [Full-stack Project](https://www.linkedin.com/feed/update/urn:li:activity:6834434994765754368/)
 - 🎤 Organize technical bootcamps for multiple Solana hackathons in SG 🇸🇬
-- ⚡  Currently working on [Purpose Bound Money (PBM)](https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/project-orchid/orchid-blueprint-final.pdf) using Token Extension!
+- ⚡  Latest weekend project [Purpose Bound Money (PBM)]([https://www.mas.gov.sg/-/media/mas-media-library/development/fintech/project-orchid/orchid-blueprint-final.pdf](https://github.com/energeticlee/pbm_program)) using Token Extension!
 
 ### Preferred Techstack:
 <img align="left" src="https://miro.medium.com/v2/resize:fit:2000/1*NADpEtambWDoBAF-F_M7vA.png" alt="Solana" width="30px"/>
